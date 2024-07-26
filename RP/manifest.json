@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Мистический сундук [RP]",
+		"description": "",
+		"uuid": "d68ecb9b-50f0-4507-8740-f2d97133e07e",
+		"version": [ 1, 0, 0 ],
+		"min_engine_version": [ 1, 20, 50 ]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "0f8b9ecf-09a1-4540-8a37-c88c6c5f8325",
+			"version": [ 1, 0, 0 ]
+		}
+	]
+}
